@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GIF](https://user-images.githubusercontent.com/92406653/157550072-c4724958-3e20-429b-8497-d1ede2c14bf7.gif)
-                                                ## Tech supports the world
+## Tech supports the world
                                                 
 ### **About me**
 
