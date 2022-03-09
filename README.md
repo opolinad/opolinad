@@ -24,6 +24,6 @@ Given my characteristics, I have developed skills that have made it easy to crea
 ### **Do yo want to get in touch?**
 **E-mail:** andreslop@gmail.com  
 **WhatsApp:** https://wa.link/q/2bmlg  
-**Telegram:** t.me/danny_lop  
+**Telegram:** https://t.me/danny_lop  
 **LinKedIn:** https://www.linkedin.com/in/andreslop/  
 **Torre:** https://torre.co/andreslop  
