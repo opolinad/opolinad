@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 
 I am a very curious and analytical person, this has made me fit very well into engineering, which, as I see it, is about using the tools that are available (or looking for new tools) in order to provide solutions to problems or improving existing procedures. Taking this into account, I am a fan of it and use it as much as possible in all aspects of my life.
 
-Given my characteristics, I have developed skills that have made it easy to create tools that facilitate the work in the jobs in which I have participated. I like to focus on improving existing processes or just finding a way to make them as simple as possible. To exploit my potential, I have studied **React, Redux, HTML, CSS, JavaScript, Node.Js, PostgreSQL, Sequelize and Express** technologies (and looking to learn another ones) , for the development of more global and complex solutions
+Given my characteristics, I have developed skills that have made it easy to create tools that facilitate the work in the jobs in which I have participated. I like to focus on improving existing processes or just finding a way to make them as simple as possible. To exploit my potential, I have studied (and developed some apps in) **React, Angular, Node.Js, Laravel, Django, PostgreSQL** technologies, for the development of more global and complex solutions.
+
+Here are three facts why I am a good option if you are considering me to be part of your team:
+
+1. As a child I teared appart my toys to understand how and why they worked. At my house I like to carry out repairings. I'm very curious. 
+2. I built some of my house's furnitures even though I hadn't any experience at carpentry. I love to learn new skills and to push myself out of my confort zone.
+3. I love to teach and share my knowledge (I've been university professor for 10 years), I've been told to have a great comunication skills and to explain complicated stuff in a easy way.
 
 ### **Do yo want to get in touch?**
 **E-mail:** andreslop@gmail.com  
