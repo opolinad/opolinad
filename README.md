@@ -23,9 +23,9 @@ Given my characteristics, I have developed skills that have made it easy to crea
 
 Here are three facts why I am a good option if you are considering me to be part of your team:
 
-1. As a child I teared appart my toys to understand how and why they worked. At my house I like to carry out repairings. I'm very curious. 
-2. I built some of my house's furnitures even though I hadn't any experience at carpentry. I love to learn new skills and to push myself out of my confort zone.
-3. I love to teach and share my knowledge (I've been university professor for 10 years), I've been told to have a great comunication skills and to explain complicated stuff in a easy way.
+1. As a child, I teared appart my toys to understand how and why they worked. At my house I like to carry out repairings. I'm very curious. 
+2. I built some of my house's furniture even though I hadn't any experience at carpentry. I love to learn new skills and to push myself out of my comfort zone.
+3. I love to teach and share my knowledge (I've been a university professor for 10 years), I've been told to have great comunication skills and to explain complicated stuff in a easy way.
 
 ### **Do yo want to get in touch?**
 **E-mail:** andreslop@gmail.com  
